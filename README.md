@@ -1,1 +1,1 @@
-# fullstack-mini-project
+# fullstack-project
